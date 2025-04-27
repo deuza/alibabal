@@ -22,15 +22,14 @@ Exemples :
 
 - `wscat` installé sur le système.
 
-
+```
           _ _   ____        _           _
     /\   | (_) |  _ \      | |         | |
    /  \  | |_  | |_) | __ _| |__   __ _| |
   / /\ \ | | | |  _ < / _` | '_ \ / _` | |
  / ____ \| | | | |_) | (_| | |_) | (_| | |
 /_/    \_\_|_| |____/ \__,_|_.__/ \__,_|_|
-
-
+```
 
 **Cheikh Ali**, c'est l'érudit apostat qui t'explique l'Islam ... le meilleur imam de France 😎.  
 
