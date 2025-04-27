@@ -1,7 +1,6 @@
 #!/bin/bash
-# Version : 0.1
+# Version : 0.2-dev
 
-# Stocke le temps de début en nanosecondes
 start_time=$(date +%s%N)
 total_sent=0
 
@@ -24,7 +23,6 @@ if [ "$1" = "--help" ]; then
     exit 0
 fi
 
-# Appliquer $2 si fourni
 if [ -n "$2" ]; then
     delay="$2"
 fi
@@ -39,14 +37,14 @@ cleanup() {
     echo -e "${cyan}[!] 🦁 Total hassanats envoyées au Lion de Roubaix 🦁 : ${total_sent}${reset}"
     echo -e "${cyan}[!] Temps total écoulé : ${elapsed} ns (${seconds}s ${millis}ms)${reset}"
 
-    rm -f /tmp/wscatpipe_in /tmp/wscatpipe_out
+    rm -f "$pipe_in" "$pipe_out"
     if kill -0 "$wscat_pid" 2>/dev/null; then
         kill "$wscat_pid"
     fi
     exit 0
 }
 
-trap cleanup INT TERM
+trap cleanup INT TERM EXIT
 
 # Vérifie si $count est un entier positif
 if [ -n "$count" ]; then
@@ -56,19 +54,19 @@ if [ -n "$count" ]; then
     fi
 fi
 
-# Crée les FIFOs
-rm -f /tmp/wscatpipe_in /tmp/wscatpipe_out
-mkfifo /tmp/wscatpipe_in
-mkfifo /tmp/wscatpipe_out
+# Crée les FIFOs avec mktemp
+pipe_in=$(mktemp -u /tmp/wscatpipe_in.XXXXXX)
+pipe_out=$(mktemp -u /tmp/wscatpipe_out.XXXXXX)
+mkfifo "$pipe_in" "$pipe_out"
 
 # Lance wscat connecté aux deux pipes
-wscat -c wss://data.alibabal.fr/ws/ < /tmp/wscatpipe_in > /tmp/wscatpipe_out &
+wscat -c wss://data.alibabal.fr/ws/ < "$pipe_in" > "$pipe_out" &
 wscat_pid=$!
 sleep 1
 
 i=1
-exec 3> /tmp/wscatpipe_in
-exec 4< /tmp/wscatpipe_out
+exec 3> "$pipe_in"
+exec 4< "$pipe_out"
 
 while [ -z "$count" ] || [ "$i" -le "$count" ]; do
     timestamp=$(date +"[%H:%M:%S]")
@@ -90,5 +88,4 @@ done
 exec 3>&-
 exec 4<&-
 sleep 1
-cleanup
 
