@@ -1,30 +1,6 @@
 # Alibabal.sh
 
-          _ _   ____        _           _
-    /\   | (_) |  _ \      | |         | |
-   /  \  | |_  | |_) | __ _| |__   __ _| |
-  / /\ \ | | | |  _ < / _` | '_ \ / _` | |
- / ____ \| | | | |_) | (_| | |_) | (_| | |
-/_/    \_\_|_| |____/ \__,_|_.__/ \__,_|_|
-
-
 🕌🐾 Script bash minimaliste pour envoyer des hassanats 🕌 au grand **Cheikh Ali**, alias **Le Lion de Roubaix** pour le soutenir ! 🦁
-
-**Cheikh Ali**, c'est l'érudit apostat qui t'explique l'Islam ... le meilleur imam de France 😎.  
-
-Auteur du live légendaire **"Incroyable Islam"** disponible ici :  
-👉 [https://www.amazon.fr/dp/B0DYYYRRW5](https://www.amazon.fr/dp/B0DYYYRRW5)
-(Lien non sponsorisé !)
-
-## Pourquoi envoyer des hassanats ?
-
-Parce que :
-- Le savoir mérite d'être récompensé 📚
-- La liberté de pensée, c’est sacré 🕊️
-- Le Lion de Roubaix rugit pour la vérité 🔥
-
-Chaque hassanat envoyée est un hommage au courage et à l’intelligence 🧠.  
-(Et c'est aussi un moyen de troller gentiment l'Univers 😅)
 
 ## Usage
 
@@ -45,6 +21,32 @@ Exemples :
 ## Requis
 
 - `wscat` installé sur le système.
+
+
+          _ _   ____        _           _
+    /\   | (_) |  _ \      | |         | |
+   /  \  | |_  | |_) | __ _| |__   __ _| |
+  / /\ \ | | | |  _ < / _` | '_ \ / _` | |
+ / ____ \| | | | |_) | (_| | |_) | (_| | |
+/_/    \_\_|_| |____/ \__,_|_.__/ \__,_|_|
+
+
+
+**Cheikh Ali**, c'est l'érudit apostat qui t'explique l'Islam ... le meilleur imam de France 😎.  
+
+Auteur du live légendaire **"Incroyable Islam"** disponible ici :  
+👉 [https://www.amazon.fr/dp/B0DYYYRRW5](https://www.amazon.fr/dp/B0DYYYRRW5)
+(Lien non sponsorisé !)
+
+## Pourquoi envoyer des hassanats ?
+
+Parce que :
+- Le savoir mérite d'être récompensé 📚
+- La liberté de pensée, c’est sacré 🕊️
+- Le Lion de Roubaix rugit pour la vérité 🔥
+
+Chaque hassanat envoyée est un hommage au courage et à l’intelligence 🧠.  
+(Et c'est aussi un moyen de troller gentiment l'Univers 😅)
 
 ## Licence
 
