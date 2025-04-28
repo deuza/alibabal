@@ -2,26 +2,26 @@
 
 ![Sheikh Ali Babal le Lion de Roubaix](https://raw.githubusercontent.com/deuza/alibabal/main/images/ali.png)
 
+🕌 Script bash minimaliste pour envoyer des hassanats 🕌 au grand **Sheikh Ali Babal**, 
+alias **Le Lion de Roubaix** pour le soutenir ! 🦁
 
-🕌🐾 Script bash minimaliste pour envoyer des hassanats 🕌 au grand **Sheikh Ali Babal**, alias **Le Lion de Roubaix** pour le soutenir ! 🦁
+**Ali Babal**, c'est l'érudit apostat qui t'explique l'Islam : le **meilleur imam de France** !!!
 
-**Ali Babal**, c'est l'érudit apostat qui t'explique l'Islam : le meilleur imam de France 😎.  
-
-Auteur du live légendaire **"Incroyable Islam"** disponible ici :  
+Auteur du live légendaire **"Incroyable Islam"** disponible ici :
 👉 [https://www.amazon.fr/dp/B0DYYYRRW5](https://www.amazon.fr/dp/B0DYYYRRW5)
-(Lien non sponsorisé !)
+**(Lien non sponsorisé)**
 
 ## Pourquoi envoyer des hassanats ?
 
 Parce que :
-- Le savoir mérite d'être récompensé 📚
-- La liberté de pensée, c’est sacré 🕊️
-- Le Lion de Roubaix rugit pour la vérité 🔥
+- Le savoir mérite d'être récompensé. 
+- La liberté de pensée, c’est sacré.
+- Le Lion de Roubaix rugit pour la vérité.
 
-Chaque hassanat envoyée est un hommage au courage et à l’intelligence 🧠.  
-(Et c'est aussi un moyen de troller gentiment l'Univers 😅)
+Chaque hassanat envoyée est un hommage au courage et à l’intelligence pour son partage.
+(Et c'est aussi un moyen de troller gentiment l'Univers ...)
 
-## Usage
+## Usage :
 
 ```sh
 ./alibabal.sh [nombre] [délai]
@@ -30,13 +30,13 @@ Chaque hassanat envoyée est un hommage au courage et à l’intelligence 🧠.
 - **nombre** : nombre de hassanats à envoyer (par défaut infini)
 - **délai** : délai entre chaque envoi en secondes (par défaut 0.5)
 
-## Exemples :
+## Exemple :
 
-*(Envoie 10 hassanats avec 1 seconde d'intervalle.)*
+*(Envoyer 10 hassanats avec 1 seconde d'intervalle)*
 
 ```sh
 ./alibabal.sh 10 1
-foo@bar:~/alibabal $ ./alibabal.sh 10 1
+foo@bar:~/alibabal $./alibabal.sh 10 1
 [21:28:32] 🕌 [+] Hassanat envoyée #1
 [21:28:32] 🦁 [<] Réponse reçue : {"count":3009059460}
 [21:28:33] 🕌 [+] Hassanat envoyée #2
@@ -64,22 +64,20 @@ foo@bar:~/alibabal $ ./alibabal.sh 10 1
 foo@bar:~/alibabal $
 ```
 
-## Requis
+## Requis :
 
 - `wscat` installé sur le système.
 
-## Licence
+## Licence :
 
 Libre d'utilisation et de modification.
 
-## Important
+## Important :
 
-> ⚠️ **IMPORTANT** ⚠️
-> Ce script est à utiliser **avec amour**, pas pour **saturer** ou **casser** le serveur de Cheikh Ali.
-> Respecte son travail, clique avec le cœur, pas avec un bot ! ❤️
-> Ce script est à utiliser **avec amour**, pas pour **saturer** ou **casser** le serveur de Cheikh Ali.  
-> Respecte son travail, clique avec le cœur, pas avec un bot ! ❤️
-
+> ⚠️  **IMPORTANT** ⚠️
+> Ce script est à utiliser **avec amour**, pas pour **saturer** ou **briquer** le serveur d'Ali 
+> en tentant de le saturer. Ce script est humoristique.
+> Respectez son travail et le mien s'il vous plait, cliquez avec le cœur, pas avec un bot ! ❤️
 
 ## Soutenir Ali Babal
 
