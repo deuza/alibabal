@@ -39,25 +39,25 @@ Chaque hassanat envoyée est un hommage au courage et à l’intelligence pour s
 ./alibabal.sh 10 1
 foo@bar:~/alibabal $ ./alibabal.sh 10 1
 [21:28:32] 🕌 [+] Hassanat envoyée #1
-[21:28:32] 🦁 [<] Réponse reçue : {"count":3009059460}
+[21:28:32] 🦁 [<] Réponse reçue : > {"count":00000001}
 [21:28:33] 🕌 [+] Hassanat envoyée #2
-[21:28:33] 🦁 [<] Réponse reçue : > {"count":3009059462}
+[21:28:33] 🦁 [<] Réponse reçue : > {"count":00000002
 [21:28:34] 🕌 [+] Hassanat envoyée #3
-[21:28:34] 🦁 [<] Réponse reçue : > {"count":3009059464}
+[21:28:34] 🦁 [<] Réponse reçue : > {"count":00000003
 [21:28:35] 🕌 [+] Hassanat envoyée #4
-[21:28:35] 🦁 [<] Réponse reçue : > {"count":3009059466}
+[21:28:35] 🦁 [<] Réponse reçue : > {"count":00000004
 [21:28:36] 🕌 [+] Hassanat envoyée #5
-[21:28:36] 🦁 [<] Réponse reçue : {"count":3009059467}
+[21:28:36] 🦁 [<] Réponse reçue : > {"count":00000005
 [21:28:37] 🕌 [+] Hassanat envoyée #6
-[21:28:37] 🦁 [<] Réponse reçue : > {"count":3009059468}
+[21:28:37] 🦁 [<] Réponse reçue : > {"count":00000006
 [21:28:38] 🕌 [+] Hassanat envoyée #7
-[21:28:38] 🦁 [<] Réponse reçue : > {"count":3009059471}
+[21:28:38] 🦁 [<] Réponse reçue : > {"count":00000007
 [21:28:39] 🕌 [+] Hassanat envoyée #8
-[21:28:39] 🦁 [<] Réponse reçue : > > {"count":3009059474}
+[21:28:39] 🦁 [<] Réponse reçue : > {"count":00000008
 [21:28:40] 🕌 [+] Hassanat envoyée #9
-[21:28:40] 🦁 [<] Réponse reçue : > {"count":3009059476}
+[21:28:40] 🦁 [<] Réponse reçue : > {"count":00000009
 [21:28:41] 🕌 [+] Hassanat envoyée #10
-[21:28:41] 🦁 [<] Réponse reçue : > {"count":3009059478}
+[21:28:41] 🦁 [<] Réponse reçue : > {"count":00000010
 
 [!] Mission terminée !
 [!] 🦁 Total hassanats envoyées au Lion de Roubaix 🦁 : 10
@@ -71,15 +71,15 @@ foo@bar:~/alibabal $
 
 ## Licence :
 
-Libre d'utilisation et de modification.
+CC0 1.0 Universal : [Relaché sans restriction](https://creativecommons.org/publicdomain/zero/1.0/)
 
-## Important :
+## Important : 
 
-> ⚠️  **IMPORTANT** ⚠️
-> Ce script est à utiliser **avec amour**, pas pour **saturer** ou **casser** le serveur de Cheikh Ali.
-> Respecte son travail, clique avec le cœur, pas avec un bot ! ❤️
+> ⚠️  **IMPORTANT** ⚠️    
+> Ce script est à utiliser **avec amour**, pas pour **saturer** ou **casser** le serveur de Cheikh Ali.  
+> Respecte son travail, clique avec le cœur, pas avec un bot ! ❤️   
 
-## Soutenir Ali Babal
+## Soutenir Ali Babal :
 
 - 📺 YouTube : [@AlibabalX](https://www.youtube.com/@AlibabalX)
 - 🐦 X (Twitter) : [@BolbBilal](https://x.com/BolbBilal)

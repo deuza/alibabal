@@ -1,5 +1,5 @@
 #!/bin/bash
-# Version : 0.2-dev
+# Version : 0.3-dev
 
 start_time=$(date +%s%N)
 total_sent=0
