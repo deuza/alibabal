@@ -44,7 +44,7 @@ cleanup() {
     exit 0
 }
 
-trap cleanup INT TERM EXIT
+trap cleanup INT TERM
 
 # Vérifie si $count est un entier positif
 if [ -n "$count" ]; then
@@ -88,4 +88,4 @@ done
 exec 3>&-
 exec 4<&-
 sleep 1
-
+cleanup
