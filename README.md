@@ -1,13 +1,11 @@
 # Alibabal.sh
 
 
-```sh
                       ___    ___    ____        __          __
                      /   |  / (_)  / __ )____ _/ /_  ____ _/ /
                     / /| | / / /  / __  / __ `/ __ \/ __ `/ /
                    / ___ |/ / /  / /_/ / /_/ / /_/ / /_/ / /
                   /_/  |_/_/_/  /_____/\__,_/_.___/\__,_/_/.sh
-```
 
 
 🕌🐾 Script bash minimaliste pour envoyer des hassanats 🕌 au grand **Cheikh Ali**, alias **Le Lion de Roubaix** pour le soutenir ! 🦁
