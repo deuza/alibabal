@@ -1,14 +1,14 @@
 # Alibabal.sh
 
-[Sheikh Ali Babal le Lion de Roubaix](https://raw.githubusercontent.com/deuza/alibabal/main/images/ali.png)
+![Sheikh Ali Babal le Lion de Roubaix](https://raw.githubusercontent.com/deuza/alibabal/main/images/ali.png)
 
 🕌 Script bash minimaliste pour envoyer des hassanats 🕌 au grand **Sheikh Ali Babal**,   
 alias **Le Lion de Roubaix** pour le soutenir ! 🦁
 
 **Ali Babal**, c'est l'érudit apostat qui t'explique l'Islam : le **meilleur imam de France** !!!
 
-Auteur du live légendaire **"Incroyable Islam"** disponible ici :
-👉 [https://www.amazon.fr/dp/B0DYYYRRW5](https://www.amazon.fr/dp/B0DYYYRRW5)
+Auteur du live légendaire **"Incroyable Islam"** disponible ici :   
+👉 [https://www.amazon.fr/dp/B0DYYYRRW5](https://www.amazon.fr/dp/B0DYYYRRW5)   
 **(Lien non sponsorisé)**
 
 ## Pourquoi envoyer des hassanats ?
@@ -86,6 +86,7 @@ CC0 1.0 Universal : [Relaché sans aucune restriction](https://creativecommons.o
 - 📺 YouTube : [@AlibabalX](https://www.youtube.com/@AlibabalX)
 - 🐦 X (Twitter) : [@BolbBilal](https://x.com/BolbBilal)
 - 🌍 LE MELP : [Mouvement pour l'émancipation et la liberté de pensée](https://www.melp-asso.org/)
+- Cercle des apostats : (https://discord.gg/6uzurVE42e)
 
 ---
 
