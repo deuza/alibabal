@@ -1,6 +1,6 @@
 # Alibabal.sh
 
-![Sheikh Ali Babal le Lion de Roubaix](https://raw.githubusercontent.com/deuza/alibabal/main/images/ali.png)
+[Sheikh Ali Babal le Lion de Roubaix](https://raw.githubusercontent.com/deuza/alibabal/main/images/ali.png)
 
 
 🕌 Script bash minimaliste pour envoyer des hassanats 🕌 au grand **Sheikh Ali Babal**,   
@@ -68,6 +68,7 @@ foo@bar:~/alibabal $
 ## Requis :
 
 - `wscat` installé sur le système.
+[Voir le dépôt de wscat](https://github.com/websockets/wscat)
 
 ## Licence :
 
