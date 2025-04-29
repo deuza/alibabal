@@ -1,0 +1,4 @@
+# .gitattributes
+*.md text diff
+*.sh text diff
+*.png binary
