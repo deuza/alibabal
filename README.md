@@ -18,7 +18,7 @@ Parce que :
 - La liberté de pensée, c’est sacré.
 - Le Lion de Roubaix rugit pour la vérité.
 
-Chaque hassanat envoyée est un hommage au courage et à l’intelligence pour son partage.
+Chaque hassanat envoyée est un hommage au courage et à l’intelligence pour son partage.   
 (Et c'est aussi un moyen de troller gentiment l'Univers ...)
 
 ## Usage :
