@@ -1,6 +1,13 @@
-# Alibabal.sh
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/deuza/alibabal?label=Release&style=for-the-badge" alt="Latest Release"/>
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" alt="Shell: Bash"/>
+  <img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=for-the-badge" alt="License: CC0"/>
+</p>
 
-![Sheikh Ali Babal le Lion de Roubaix](https://raw.githubusercontent.com/deuza/alibabal/main/images/ali.png)
+# Alibabal.sh
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deuza/alibabal/main/images/ali.png" alt="Sheikh Ali Babal"/>
+</p>
 
 🕌 Script bash minimaliste pour envoyer des hassanats 🕌 au grand **Sheikh Ali Babal**,   
 alias **Le Lion de Roubaix** pour le soutenir ! 🦁
@@ -66,7 +73,7 @@ foo@bar:~/alibabal $
 
 ## Requis :
 
-- `wscat` installé sur le système.
+- `wscat` installé sur le système.   
 [Voir le dépôt de wscat](https://github.com/websockets/wscat)
 
 ## Licence :
