@@ -3,7 +3,7 @@
 ![Sheikh Ali Babal le Lion de Roubaix](https://raw.githubusercontent.com/deuza/alibabal/main/images/ali.png)
 
 
-🕌 Script bash minimaliste pour envoyer des hassanats 🕌 au grand **Sheikh Ali Babal**, 
+🕌 Script bash minimaliste pour envoyer des hassanats 🕌 au grand **Sheikh Ali Babal**,   
 alias **Le Lion de Roubaix** pour le soutenir ! 🦁
 
 **Ali Babal**, c'est l'érudit apostat qui t'explique l'Islam : le **meilleur imam de France** !!!
