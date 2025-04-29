@@ -86,7 +86,7 @@ CC0 1.0 Universal : [Relaché sans aucune restriction](https://creativecommons.o
 - 📺 YouTube : [@AlibabalX](https://www.youtube.com/@AlibabalX)
 - 🐦 X (Twitter) : [@BolbBilal](https://x.com/BolbBilal)
 - 🌍 LE MELP : [Mouvement pour l'émancipation et la liberté de pensée](https://www.melp-asso.org/)
-- Cercle des apostats : (https://discord.gg/6uzurVE42e)
+- ⭕ Le cercle des apostats : [Serveur Discord](https://discord.gg/6uzurVE42e)
 
 ---
 
