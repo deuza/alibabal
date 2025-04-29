@@ -98,3 +98,7 @@ CC0 1.0 Universal : [Relaché sans aucune restriction](https://creativecommons.o
 ---
 
 **🦁 Vive Sheikh Ali, longue vie au Lion de Roubaix ! 🕌**
+
+<p align="center">
+  <sub><sup>Maintenu avec ❤️ par <a href="https://github.com/deuza">DeuZa</a></sup></sub>
+</p>
