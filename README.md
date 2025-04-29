@@ -67,6 +67,7 @@ foo@bar:~/alibabal $
 ## Requis :
 
 - `wscat` installé sur le système.
+[Voir le dépôt de wscat](https://github.com/websockets/wscat)
 
 ## Licence :
 
