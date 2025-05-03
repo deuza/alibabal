@@ -83,7 +83,7 @@ CC0 1.0 Universal : [Relaché sans aucune restriction](https://creativecommons.o
 ## Important : 
 
 > ⚠️  **IMPORTANT** ⚠️    
-> Ce script est à utiliser **avec amour**, pas pour **saturer** ou **casser** le serveur de Cheikh Ali.   
+> Ce script est à utiliser **avec amour**, pas pour **saturer** ou **casser** le serveur de Sheikh Ali.   
 > Respectez son travail et le mien, cliquez avec le cœur, pas avec un bot ! ❤️    
 
 ## Soutenir Ali Babal :

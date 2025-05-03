@@ -62,7 +62,7 @@ mkfifo "$pipe_in" "$pipe_out"
 # Lance wscat connecté aux deux pipes
 wscat -c wss://data.alibabal.fr/ws/ < "$pipe_in" > "$pipe_out" &
 wscat_pid=$!
-sleep 1
+#sleep 1
 
 i=1
 exec 3> "$pipe_in"
@@ -73,7 +73,7 @@ while [ -z "$count" ] || [ "$i" -le "$count" ]; do
 
     echo '{"action":"add"}' >&3
     total_sent=$((total_sent + 1))
-    echo -e "${timestamp} 🕌 ${green}[+] Hassanat envoyée #$i${reset}"
+    echo -e "${timestamp} 🕌 ${green}[>] Hassanat envoyée #$i${reset}"
 
     if read -t "$timeout" -u 4 line; then
         echo -e "${timestamp} 🦁 ${cyan}[<] Réponse reçue : $line${reset}"
