@@ -4,12 +4,12 @@
   <img src="https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=for-the-badge" alt="License: CC0"/>
 </p>
 
-# Alibabal.sh
+# alibabal.sh
 <p align="center">
   <img src="https://raw.githubusercontent.com/deuza/alibabal/main/images/ali.png" alt="Sheikh Ali Babal"/>
 </p>
 
-🕌 Script bash minimaliste pour envoyer des hassanats 🕌 au grand **Sheikh Ali Babal**,   
+🕌 Script bash minimaliste pour envoyer des hassanats, sur le site [https://alibabal.fr/](https://alibabal.fr/) au grand **Sheikh Ali Babal**,   
 alias **Le Lion de Roubaix** pour le soutenir ! 🦁
 
 **Ali Babal**, c'est l'érudit apostat qui t'explique l'Islam : le **meilleur imam de France** !!!
