@@ -9,8 +9,8 @@
   <img src="https://raw.githubusercontent.com/deuza/alibabal/main/images/ali.png" alt="Sheikh Ali Babal"/>
 </p>
 
-🕌 Script bash minimaliste pour envoyer des hassanats, sur le site [https://alibabal.fr/](https://alibabal.fr/) au grand **Sheikh Ali Babal**,   
-alias **Le Lion de Roubaix** pour le soutenir ! 🦁
+🕌 Script bash minimaliste pour envoyer des hassanats, sur le site [https://alibabal.fr/](https://alibabal.fr/)    
+au grand **Sheikh Ali Babal**, alias **Le Lion de Roubaix** pour le soutenir ! 🦁
 
 **Ali Babal**, c'est l'érudit apostat qui t'explique l'Islam : le **meilleur imam de France** !!!
 
