@@ -1,5 +1,4 @@
 #!/bin/bash
-# Version : 0.3.2-dev
 
 start_time=$(date +%s%N)
 total_sent=0
