@@ -6,11 +6,11 @@
 
 # alibabal.sh
 <p align="center">
-  <img src="https://raw.githubusercontent.com/deuza/alibabal/main/images/ali.png" alt="Sheikh Ali Babal"/>
+  <img src="https://raw.githubusercontent.com/deuza/alibabal/main/images/ali.png" alt="Cheick Ali Babal"/>
 </p>
 
 🕌 Script bash minimaliste pour envoyer des hassanats, sur le site [https://alibabal.fr/](https://alibabal.fr/)    
-au grand **Sheikh Ali Babal**, alias **Le Lion de Roubaix** pour le soutenir ! 🦁
+au grand **Cheick Ali Babal**, alias **Le Lion de Roubaix** pour le soutenir ! 🦁
 
 **Ali Babal**, c'est l'érudit apostat qui t'explique l'Islam : le **meilleur imam de France** !!!
 
@@ -83,7 +83,7 @@ CC0 1.0 Universal : [Relaché sans aucune restriction](https://creativecommons.o
 ## Important : 
 
 > ⚠️  **IMPORTANT** ⚠️    
-> Ce script est à utiliser **avec amour**, pas pour **saturer** ou **casser** le serveur de Sheikh Ali.   
+> Ce script est à utiliser **avec amour**, pas pour **saturer** ou **casser** le serveur de Cheick Ali.   
 > Respectez son travail et le mien, cliquez avec le cœur, pas avec un bot ! ❤️    
 
 ## Soutenir Ali Babal :
@@ -97,7 +97,7 @@ CC0 1.0 Universal : [Relaché sans aucune restriction](https://creativecommons.o
 
 ---
 
-**🦁 Vive Sheikh Ali, longue vie au Lion de Roubaix ! 🕌**
+**🦁 Vive Cheick Ali, longue vie au Lion de Roubaix ! 🕌**
 
 <p align="center">
   <sub><sup>Maintenu avec ❤️ par <a href="https://github.com/deuza">DeuZa</a></sup></sub>
